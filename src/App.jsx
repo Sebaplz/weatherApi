@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import "./App.css";
-import { MdDarkMode, MdLightMode } from "react-icons/md";
 import { useForm } from "react-hook-form";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 
@@ -19,7 +18,7 @@ function App() {
       url: "https://weatherapi-com.p.rapidapi.com/current.json",
       params: { q: string },
       headers: {
-        "X-RapidAPI-Key": "7ef364a2c0msh28b8ada4e9f4221p115de1jsn5a0a9d58a8cd",
+        "X-RapidAPI-Key": import.meta.env.VITE_WEATHER_KEY,
         "X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com",
       },
     };
