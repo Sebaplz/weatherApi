@@ -18,10 +18,10 @@ Reforzar el uso de useState, useEffect y consumir la api de https://rapidapi.com
 ## Vista previa del proyecto
 Mobile 375px
 
-![image](https://user-images.githubusercontent.com/51845541/205761874-df6b9631-7481-4f68-855e-baa7492ee314.png)
+![image](https://github.com/Sebaplz/weatherApi/assets/51845541/5c2c0dc5-0c6e-4165-a71f-7542e3d41bd5)
 
 Web 1440px
-![image](https://user-images.githubusercontent.com/51845541/205761951-4a98ca79-fa1c-43fb-8edd-729dddf804c8.png)
+![image](https://github.com/Sebaplz/weatherApi/assets/51845541/8aecb4bd-980e-4e51-9f2d-58da88abf48f)
 
 ## Autor ✒️
 Sebastián Neira
